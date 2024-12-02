@@ -1,0 +1,4 @@
+../Core/Src/app.c:29:6:HAL_TIM_IC_CaptureCallback	7
+../Core/Src/app.c:90:10:getDistance	1
+../Core/Src/app.c:106:6:setTrigger	1
+../Core/Src/app.c:111:6:app	1
